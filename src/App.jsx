@@ -14,7 +14,7 @@ import StudyNZ from "./components/StudyNZ";
 import StudyCanada from "./components/StudyCanada";
 import StudyAustralia from "./components/StudyAustralia";
 import StudyFrance from "./components/StudyFrance";
-import TestimonialsPage from "./components/TestimonialsPage";
+import TestimonialsPage from "./components/Testimonialspage";
 import ExternalScholarships from "./components/ExternalScholarships";
 import ScholarshipsSecured from "./components/ScholarshipsSecured";
 import CareersPage from "./components/CareersPage";
